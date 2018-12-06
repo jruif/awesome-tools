@@ -12,3 +12,11 @@
 - [sindresorhus/ora](https://github.com/sindresorhus/ora) - 实现加载中的状态是一个 Loading 加前面转起来的小圈圈，成功了是一个 Success 加前面一个小钩钩。
 - [SBoudrias/mem-fs-editor](https://github.com/SBoudrias/mem-fs-editor) - 提供一系列 API，方便操作模板文件。
 - [shelljs/shelljs](https://github.com/shelljs/shelljs) - ShellJS 是 Node.js 扩展，用于实现 Unix shell 命令执行。
+
+<br />
+<br />
+<h2 align="center">抹平多端差异的开发框架</h2>
+
+- [NervJS/taro](https://github.com/NervJS/taro) - 多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信小程序/百度智能小程序/支付宝小程序、H5、React Native 等的应用
+- [Youjingyu/vue-hap-tools](https://github.com/Youjingyu/vue-hap-tools) - 一个抹平vue.js与快应用差异性的工具
+- [dcloudio/uni-app](https://github.com/dcloudio/uni-app) - 使用 Vue.js 开发跨平台应用的前端框架。开发者通过编写 Vue.js 代码，uni-app 将其编译到 iOS、Android、微信小程序、H5等多个平台，保证其正确运行并达到优秀体验。
