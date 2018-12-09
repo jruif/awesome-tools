@@ -18,5 +18,6 @@
 <h2 align="center">抹平多端差异的开发框架</h2>
 
 - [NervJS/taro](https://github.com/NervJS/taro) - 多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信小程序/百度智能小程序/支付宝小程序、H5、React Native 等的应用
+- [RubyLouvre/anu/packages/cli](https://github.com/RubyLouvre/anu/tree/master/packages/cli) - 这只是[anu](https://github.com/RubyLouvre/anu)的一个扩展，通过实现不同的render，以支持在微信小程序，百度小程序，支付宝小程，快应用，H5， hybird上运行。
 - [Youjingyu/vue-hap-tools](https://github.com/Youjingyu/vue-hap-tools) - 一个抹平vue.js与快应用差异性的工具
 - [dcloudio/uni-app](https://github.com/dcloudio/uni-app) - 使用 Vue.js 开发跨平台应用的前端框架。开发者通过编写 Vue.js 代码，uni-app 将其编译到 iOS、Android、微信小程序、H5等多个平台，保证其正确运行并达到优秀体验。
