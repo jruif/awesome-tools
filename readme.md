@@ -12,6 +12,10 @@
 - [sindresorhus/ora](https://github.com/sindresorhus/ora) - 实现加载中的状态是一个 Loading 加前面转起来的小圈圈，成功了是一个 Success 加前面一个小钩钩。
 - [SBoudrias/mem-fs-editor](https://github.com/SBoudrias/mem-fs-editor) - 提供一系列 API，方便操作模板文件。
 - [shelljs/shelljs](https://github.com/shelljs/shelljs) - ShellJS 是 Node.js 扩展，用于实现 Unix shell 命令执行。
+- [lerna/lerna](https://github.com/lerna/lerna) - Lerna 是一个用来优化托管在 git/npm 上的多 package 代码库的工作流的一个管理工具，可以让你在主项目下管理多个子项目，从而解决了多个包互相依赖，导致发布时需要手动维护多个包的问题。
+- [@babel/parser](https://github.com/babel/babel/tree/master/packages/babel-parser) - 之前的babel/babylon，用来解析JavaScript
+- [fb55/htmlparser2](https://github.com/fb55/htmlparser2) - 一个 HTML/XML/RSS 解析器
+- [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - 快速、灵活、精简的jQuery核心部分，专为服务器实现的解析html的库
 
 <br />
 <br />
