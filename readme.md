@@ -28,9 +28,9 @@
 <br />
 <br />
 <h2 align="center">Babel 插件库</h2>
+
 - [@babel/parser](https://github.com/babel/babel/tree/master/packages/babel-parser) - 之前的babel/babylon， Babel的解析器，用来解析JavaScript
 - [@babel/traverse](https://github.com/babel/babel/tree/master/packages/babel-traverse) - Babel Traverse（遍历）模块维护了整棵树的状态，并且负责替换、移除和添加节点。
 - [@babel/types](https://github.com/babel/babel/tree/master/packages/babel-types) - Babel Types模块是一个用于 AST 节点的 Lodash 式工具库， 它包含了构造、验证以及变换 AST 节点的方法。 该工具库包含考虑周到的工具方法，对编写处理AST逻辑非常有用。
 - [@babel/generator](https://github.com/babel/babel/tree/master/packages/babel-generator) - 是 Babel 的代码生成器，它读取AST并将其转换为代码和源码映射（sourcemaps）。
 - [@babel/template](https://github.com/babel/babel/tree/master/packages/babel-template) - 从一个字符串模板生成AST。是另一个虽然很小但却非常有用的模块。 它能让你编写字符串形式且带有占位符的代码来代替手动编码， 尤其是生成的大规模 AST的时候。 在计算机科学中，这种能力被称为准引用（quasiquotes）。
-
