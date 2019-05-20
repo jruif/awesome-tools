@@ -9,6 +9,7 @@
 - [jprichardson/node-fs-extra](https://github.com/jprichardson/node-fs-extra) - 在 Node.js 的 fs 基础上增加了一些新的方法，更好用，还可以拷贝模板。
 - [chalk/chalk](https://github.com/chalk/chalk) - 可以用于控制终端输出字符串的样式。
 - [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - Node.js 命令行交互工具，通用的命令行用户界面集合，可以和用户进行交互。
+- [terkelg/prompts](https://github.com/terkelg/prompts) - Node.js 命令行交互工具，轻量级的，漂亮的和用户友好的交互式提示。
 - [sindresorhus/ora](https://github.com/sindresorhus/ora) - 实现加载中的状态是一个 Loading 加前面转起来的小圈圈，成功了是一个 Success 加前面一个小钩钩。
 - [SBoudrias/mem-fs-editor](https://github.com/SBoudrias/mem-fs-editor) - 提供一系列 API，方便操作模板文件。
 - [shelljs/shelljs](https://github.com/shelljs/shelljs) - ShellJS 是 Node.js 扩展，用于实现 Unix shell 命令执行。
