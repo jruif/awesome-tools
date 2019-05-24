@@ -6,6 +6,7 @@
 <h2 align="center">node.js</h2>
 
 - [tj/commander.js](https://github.com/tj/commander.js) - 命令行接口全面的解决方案，灵感来自于 [Ruby's commander](https://github.com/commander-rb/commander)可以自动的解析命令和参数，合并多选项，处理短参等等，功能强大，上手简单。
+- [yargs/yargs](https://github.com/yargs/yargs) - Yargs帮助您构建交互式命令行工具，通过解析命令行参数并创建一个优雅的用户界面。(https://github.com/commander-rb/commander)可以自动的解析命令和参数，合并多选项，处理短参等等，功能强大，上手简单。
 - [jprichardson/node-fs-extra](https://github.com/jprichardson/node-fs-extra) - 在 Node.js 的 fs 基础上增加了一些新的方法，更好用，还可以拷贝模板。
 - [chalk/chalk](https://github.com/chalk/chalk) - 可以用于控制终端输出字符串的样式。
 - [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - Node.js 命令行交互工具，通用的命令行用户界面集合，可以和用户进行交互。
